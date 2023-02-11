@@ -1,1 +1,1 @@
-# rock-paper-scissor-dart
+# Rock-Paper-Scissor game in Dart
